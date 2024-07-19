@@ -14,3 +14,8 @@ To run this project, you can clone it on your server and run the following comma
 docker-compose up -d
 ```
 
+To run this project, you can clone it on your server and run the following command
+
+![image](https://github.com/user-attachments/assets/ab0e9698-4b78-4916-99c4-528aa0745f10)
+
+
